@@ -41,6 +41,12 @@ Para realizar este exercício, siga os passos abaixo:
 A Netflix utiliza Java pela robustez do ecossistema, especialmente com o amadurecimento das JVMs modernas e do Spring Boot, permitindo sistemas de alta taxa de transferência e baixa latência. 
 
 > **Saiba mais:** [How Netflix Runs on Java (ByteByteGo)](https://blog.bytebytego.com/p/how-netflix-runs-on-java)
+>
+> https://www.youtube.com/watch?v=XpunFFS-n8I
+>
+> https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html
+>
+> https://docs.oracle.com/en/java/javase/21/gctuning/z-garbage-collector.html
 
 ---
 **Bons estudos e mãos ao código!** 👨‍🏫💻
