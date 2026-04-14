@@ -1,6 +1,6 @@
 # 📺 Exercício de Revisão: Netflix Backend Logic (Java)
 
-[![netflix-java.png](https://i.postimg.cc/cH8s2kRb/netflix-java.png)](https://postimg.cc/wyg8sVbX)
+[![netflix-java.png](https://cdn.crusoe.com.br/uploads/2025/05/5bd632d88417b6a1712b5ed1146e00b98d9fdf3a5b59940906926c946e5974f1-750x375.jpg)]
 
 Este repositório contém um desafio prático focado em **Estruturas de Condição (`if-else` e `switch-case`)**. O objetivo é aplicar os conceitos básicos de Java em um cenário inspirado na arquitetura real da Netflix, que utiliza a JVM para processar milhões de requisições com alta performance.
 
